@@ -1,0 +1,10 @@
+<resources>
+    <string name="no_data">No data available</string>
+    <string name="close">Close</string>
+    <string name="vehicle_data_header">Vehicle Data</string>
+    <string name="vehicle_data_fleettype" formatted="false">Fleettype: %s</string>
+    <string name="vehicle_data_heading" formatted="false">Heading: %s</string>
+    <string name="vehicle_data_coordinates_header">Coordinates:</string>
+    <string name="vehicle_data_coordinates_content" formatted="false">Latitude: %s\nLongitude: %s</string>
+    <string name="refresh">Refresh</string>
+</resources>
